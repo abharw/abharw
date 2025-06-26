@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Arav Bhardwaj and I'm an ambitious software engineer from Carnegie Mellon University with demonstrated expertise across machine learning, full-stack development, and enterprise AI deployment. I've made AI chatbots for billion-dollar enterprise clients, created computer vision systems for sorting trash and recycling, discrete simulations for modeling social dynamics, and more. 
+<p align="left">My name is Arav Bhardwaj and I'm an ambitious software engineer from Carnegie Mellon University with demonstrated expertise across machine learning, full-stack development, and enterprise AI deployment. I've made AI chatbots for billion-dollar enterprise clients, created computer vision systems for sorting trash and recycling, simulated social dynamics with discrete systems, and more. 
 
 ###
 
