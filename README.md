@@ -38,7 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   </div>
 <br/>
-###
 
 <h2 align="left">Want to reach out?</h2>
 
