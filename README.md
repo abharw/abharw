@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">When I'm not coding, you'll find me on nature walks, watching murder mysteries, or hunting for the best food spots in New York and Pittsburgh.<br><br>I'm working on a Git-like version control system for AI models and prompts that aims to become the standard toolchain for managing AI application development workflows from experimentation to production.<br><br>Fun fact about me: I dont use QWERTY; I'm a big fan of alternate keyboard layouts, and I currently use Night.</p>
+<p align="left">When I'm not coding, you'll find me on nature walks, watching murder mysteries, or hunting for the best food spots in New York and Pittsburgh.<br><br>I'm working on a Git-like version control system for AI models and prompts that aims to become the standard toolchain for managing AI application development workflows from experimentation to production.
 
 ###
 
