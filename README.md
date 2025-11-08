@@ -1,8 +1,8 @@
-<h1 align="left">Yo, what's up?</h1>
+<h1 align="left">Yo</h1>
 
 ###
 
-<p align="left">My name is Arav Bhardwaj and I'm an ambitious software engineer from Carnegie Mellon University with demonstrated expertise across machine learning, full-stack development, and enterprise AI deployment. I've made AI chatbots for billion-dollar enterprise clients, created computer vision systems for sorting trash and recycling, simulated social dynamics with discrete systems, and more. 
+<p align="left">I'm Arav Bhardwaj and I'm an ambitious software engineer from Carnegie Mellon University with demonstrated expertise across machine learning, full-stack development, and enterprise AI deployment. I've made AI chatbots for enterprise clients, created computer vision systems for sorting trash and recycling, simulated social dynamics with discrete systems, and more. I just love building. 
 
 ###
 
