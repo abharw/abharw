@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-When I'm not coding, you'll find me on nature walks, watching murder mysteries, or hunting for the best food spots in New York and Pittsburgh.<br><br>
+When I'm not coding, you'll find me on nature walks, watching murder mysteries, or hunting for the best food spots in New York and Pittsburgh (but Taco Bell beats all). <br><br>
 I'm cofounding Basics, check it out <a href="https://www.basicsu.com/">here.</a>
 </p>
 
