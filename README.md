@@ -2,7 +2,7 @@
 
 I'm building [Basics](https://www.basicsoftware.ai/) with [Akeil](https://github.com/akeildev): agents that live inside the interfaces people already use. Right now, that's an AI avatar that joins your Google Meet and actually teaches.
 
-In high school, I was knee-deep in research: computational chemistry and physics at [NCSSM](https://www.ncssm.edu/), and biomedical ML at [Dartmouth-Hitchcock](https://jlevy44.github.io/levylab/), where I trained GANs to generate synthetic tissue images.
+In high school, I was deep in research: computational chemistry and physics at [NCSSM](https://www.ncssm.edu/), and biomedical ML at [Dartmouth-Hitchcock](https://jlevy44.github.io/levylab/), where I trained GANs to generate synthetic tissue images.
 
 I got hooked on AI at [Karini AI](https://www.karini.ai/) freshman year, shipping voice agents and MCP before either was a thing. Then I won CMU's biggest pitch competition, raised some VC money to keep building, and went on leave. Still deep into philosophy.
 
